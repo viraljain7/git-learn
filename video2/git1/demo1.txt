@@ -1,6 +1,6 @@
 demo text 
+demo text for
 new text added
 line 4
-hahah
-
+haa
 new

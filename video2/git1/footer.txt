@@ -2,9 +2,8 @@ lorem 300 im good develepeor
 
 
 
-new line added
 
-
+new line 
 hello
 
 new line form footer
